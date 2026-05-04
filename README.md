@@ -56,7 +56,7 @@ By incorporating Stochastic Condition Masking (SCM), Decoupled Gated LoRA (DGL),
 ---
 
 ## 🚀 News
-- **[2026/01/04]** Initial release of **UniVidX**.
+- **[2026/05/04]** Initial release of **UniVidX**.
 ---
 
 ## 🛠️ Installation
