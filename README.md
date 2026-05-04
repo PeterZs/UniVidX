@@ -27,13 +27,13 @@
 
 
 <p align="center">
-  <a href="">
+  <a href="https://arxiv.org/pdf/2605.00658">
     <img src="https://img.shields.io/badge/arXiv-PDF-b31b1b" alt="Paper">
   </a>
-  <a href="">
+  <a href="https://houyuanchen111.github.io/UniVidX.github.io/">
     <img src="https://raw.githubusercontent.com/prs-eth/Marigold/main/doc/badges/badge-website.svg" alt="Website">
   </a>
-  <a href="">
+  <a href="https://huggingface.co/houyuanchen/UniVidX">
     <img src="https://img.shields.io/badge/🤗%20Hugging%20Face%20-Model-green" alt="Hugging Face Model">
   </a>
   <a href="https://www.apache.org/licenses/LICENSE-2.0">
@@ -63,7 +63,7 @@ By incorporating Stochastic Condition Masking (SCM), Decoupled Gated LoRA (DGL),
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/UniVidX.git
+git clone https://github.com/houyuanchen111/UniVidX.git
 cd UniVidX
 
 # Create environment
@@ -96,12 +96,9 @@ Then, download checkpoints of **UniVid-Intrinsic** and **UniVid-Alpha** manually
 
 | Model Name | Link |
 | :--- | :--- |
-| UniVid-Intrinsic | 🤗 Download |
-| UniVid-Alpha | 🤗 Download |
+| UniVid-Intrinsic | [🤗 Download](https://huggingface.co/houyuanchen/UniVidX) |
+| UniVid-Alpha | [🤗 Download](https://huggingface.co/houyuanchen/UniVidX) |
 
-```bash
-TODO
-```
 ---
 
 ## 💻 Inference
