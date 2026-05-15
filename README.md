@@ -317,3 +317,7 @@ If you find this work useful, please cite:
 ## 📝 Acknowledgements
 
 Code is built on [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio). Thanks all the authors for their excellent contributions!
+
+## 📜 License
+
+This project is released under the [Apache License 2.0](LICENSE).
